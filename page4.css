@@ -1,0 +1,33 @@
+@charset "utf-8";
+.header {
+	background-color: #C9F;
+	height: 125px;
+	width: 1000px;
+	float:left;
+	line-height:125px;
+}
+.navbar {
+	background-color: #9F9;
+	height: 100px;
+	width: 1000px;
+	float:left;
+}
+.menu {
+	background-color: #0FF;
+	height: 375px;
+	width: 250px;
+	float:left;
+}
+.sidebar {
+	background-color: #0FF;
+	height: 375px;
+	width: 250px;
+	float:right;
+}
+.footer {
+	background-color: #6FC;
+	width: 1000px;
+	height:100px;
+	float:left;
+}
+

@@ -1,0 +1,9 @@
+@charset "utf-8";
+.index {
+	background-color:#F9F;
+	text-align: center;
+	height: 700px;
+	width: 1000px;
+	margin:0 auto;
+}
+a:hover{color:#C9F};
